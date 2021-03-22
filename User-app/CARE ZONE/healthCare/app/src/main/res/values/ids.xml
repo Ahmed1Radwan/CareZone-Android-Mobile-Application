@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addButton" type="id" />
+    <item name="selectDate" type="id" />
+    <item name="date" type="id" />
+    <item name="AlarmActtextView" type="id" />
+    <item name="instructions" type="id" />
+    <item name="content_main" type="id" />
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E3:E8:D6:21:78:8C:07:D6:39:98:8C:A5:1D:85:AB:83:23:3C:CB:B5%3Bcom.ahmedhamdy.healthcare.NearbyLocations.GMap
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.ahmedhamdy.healthcare.NearbyLocations.GMap
+
+    SHA-1 certificate fingerprint:
+    E3:E8:D6:21:78:8C:07:D6:39:98:8C:A5:1D:85:AB:83:23:3C:CB:B5
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDwoGoqNwNqHO6W_K1lxd7T3pQFm4W9PP0</string>
+</resources>
